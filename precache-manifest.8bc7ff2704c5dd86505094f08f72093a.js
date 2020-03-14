@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0866bb2e814270f60dbfc6a6174cff03",
+    "revision": "fc0081e5bcb012ac8669a751640eba0e",
     "url": "/memory-drops-web/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/memory-drops-web/static/css/10.51bd2302.chunk.css"
   },
   {
-    "revision": "13cb428e3b610b119d67",
+    "revision": "cc7f0ba920d1c3a364ef",
     "url": "/memory-drops-web/static/css/main.2c8786b4.chunk.css"
   },
   {
@@ -428,8 +428,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/memory-drops-web/static/js/99.711d1bce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "13cb428e3b610b119d67",
-    "url": "/memory-drops-web/static/js/main.eb3312f2.chunk.js"
+    "revision": "cc7f0ba920d1c3a364ef",
+    "url": "/memory-drops-web/static/js/main.22cbeee5.chunk.js"
   },
   {
     "revision": "763319bfe5a62de33b3a",
